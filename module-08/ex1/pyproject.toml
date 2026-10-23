@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "loading_programs"
+version = "0.1.0"
+description = "Exercise 01: Loading programs into the Matrix construct"
+authors = ["Ahmed AIT ELAAOUD, aait-ela@student.1337.ma"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.0.0"
+numpy = "^1.24.0"
+matplotlib = "^3.7.0"
+requests = "^2.31.0"
